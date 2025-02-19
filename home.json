@@ -1,0 +1,76 @@
+{
+    "welcome": {
+      "title": "Welcome to Zenova AI",
+      "subtitle": "Your Smart Well-Being Companion"
+    },
+    "banner": {
+      "image": "https://backend-url.com/images/diet.png",
+      "text": "PERSONALIZE YOUR DIET WITH AI"
+    },
+    "categories": [
+      {
+        "name": "All categories",
+        "items": [
+          {
+            "title": "Cookies",
+            "image": "https://backend-url.com/images/cookies.jpg"
+          },
+          {
+            "title": "Salad",
+            "image": "https://backend-url.com/images/toast.jpg"
+          },
+          {
+            "title": "Tarte",
+            "image": "https://backend-url.com/images/toast.jpg"
+          },
+          {
+            "title": "Smoothie",
+            "image": "https://backend-url.com/images/toast.jpg"
+          }
+          ,{
+            "title": "Toast",
+            "image": "https://backend-url.com/images/toast.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Fitness",
+        "items": [
+          {
+            "title": "Workout",
+            "image": "https://your-backend-url.com/images/workout.jpg"
+          },
+          {
+            "title": "Fit Box",
+            "image": "https://your-backend-url.com/images/running.jpg"
+          },{
+            "title": "Cardio",
+            "image": "https://your-backend-url.com/images/running.jpg"
+          },{
+            "title": "Warrior",
+            "image": "https://your-backend-url.com/images/running.jpg"
+          },{
+            "title": "Running",
+            "image": "https://your-backend-url.com/images/running.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Mental",
+        "items": [
+          {
+            "title": "Test",
+            "image": "https://your-backend-url.com/images/workout.jpg"
+          },
+          {
+            "title": "Music",
+            "image": "https://your-backend-url.com/images/running.jpg"
+          },{
+            "title": "Quates",
+            "image": "https://your-backend-url.com/images/running.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  
